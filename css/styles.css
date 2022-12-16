@@ -644,11 +644,11 @@ footer {
   background-color: rgba(46, 47, 66, 0.4);
   pointer-events: none;
 
-  opacity: 0;
+  opacity: 1;
 }
 
 .is-hidden {
-  opacity: 1;
+  opacity: 0;
 }
 
 .modal {
